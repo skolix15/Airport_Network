@@ -40,3 +40,5 @@ By clicking this button, a new frame will open with the airports and the flights
 
 In class "Main" some objects have been created and the proper commands are getting perfomed
 in order to print results accordingly. 
+
+👉 If you need any further information for the current project feel free to contact by sending me an email: **skolix15@gmail.com**
