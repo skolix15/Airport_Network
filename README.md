@@ -29,6 +29,7 @@ both kind of flights (direct and indirect).
 When the user clicks the button "Find flights", in order to find the flights between
 these airports, then at the same time a ".txt" file will be created with the information of the flights as it is appeared below.
 
+<img src="/ReadMe photos/Txt Information.png" alt="txt information"/>
 ![Txt information](Txt information.png)
 
 Finally, with the usage of a external library named "jung2-2_0_1" (exists in the repository), the program has 
