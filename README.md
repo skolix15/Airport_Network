@@ -30,14 +30,13 @@ When the user clicks the button "Find flights", in order to find the flights bet
 these airports, then at the same time a ".txt" file will be created with the information of the flights as it is appeared below.
 
 <img src="/ReadMe photos/Txt Information.png" alt="txt information"/>
-![Txt information](Txt information.png)
 
 Finally, with the usage of a external library named "jung2-2_0_1" (exists in the repository), the program has 
 the potential to visualize this network.
 In the first frame, where the user can search for an airport, he/she can also click another button named "Visualize Network".
 By clicking this button, a new frame will open with the airports and the flights visualized as it is appeared below.
 
-![Visualized Network](Visualized Network.png)
+<img src="/ReadMe photos/Visualized Network.png" alt="visualized network"/>
 
 In class "Main" some objects have been created and the proper commands are getting perfomed
 in order to print results accordingly. 
